@@ -16,6 +16,7 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 - Deep Learning
 - Natural Language Processing
 - Computer Vision
+- Depth Estimation
 - Audio Synthesis
 - Multimodal AI
 - Contrastive Learning
