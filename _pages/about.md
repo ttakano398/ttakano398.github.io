@@ -30,5 +30,5 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 - 第19回YANSシンポジウム スポンサー賞 (株式会社IVRy賞), 2024.
 
 ## Contact
-**Email (university)**: taisei-takano953 [at] g.ecc.u-tokyo.ac.jp<br>
+**Email (university)**: takano-taisei953 [at] g.ecc.u-tokyo.ac.jp<br>
 **Email (personal)**: 60316300037c [at] gmail.com
