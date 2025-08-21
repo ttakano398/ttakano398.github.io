@@ -16,7 +16,6 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 - Deep Learning
 - Natural Language Processing
 - Computer Vision
-- Depth Estimation
 - Audio Synthesis
 - Multimodal AI
 - Contrastive Learning
@@ -28,6 +27,9 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 
 ## Awards
 - 第19回YANSシンポジウム スポンサー賞 (株式会社IVRy賞), 2024.
+
+## Career
+- 2025.06 - Now　New Innovations Inc.
 
 ## Contact
 **Email (university)**: takano-taisei953 [at] g.ecc.u-tokyo.ac.jp<br>
