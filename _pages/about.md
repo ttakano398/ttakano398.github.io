@@ -15,10 +15,11 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 ## Research Interests
 - Deep Learning
 - Natural Language Processing
-- Computer Vision
-- Audio Synthesis
+- Acoustic Signal Processing
+<!-- - Audio Synthesis -->
 - Multimodal AI
-- Contrastive Learning
+<!-- - Contrastive Learning -->
+<!-- - Computer Vision -->
 
 ## Education
 - 2025.04 - Now　東京大学大学院 情報理工学系研究科 システム情報学専攻 修士課程 (M.E. in the University of Tokyo)
