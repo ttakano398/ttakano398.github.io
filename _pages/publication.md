@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## International Conferences
-1. **<u>Taisei Takano</u>**, Yuki Okamoto, Yusuke Kanamori, Yuki Saito, Ryotaro Nagase, and Hiroshi Saruwatari,  “Human-CLAP: Human-perception-based contrastive language-audio pretraining,” Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp.131-135, 2025. ([project page](https://github.com/sarulab-speech/Human-CLAP) / <a href="../uploaded_files/APSIPA2025_Takano_fixed.pdf">poster</a>)
+1. **<u>Taisei Takano</u>**, Yuki Okamoto, Yusuke Kanamori, Yuki Saito, Ryotaro Nagase, and Hiroshi Saruwatari,  “Human-CLAP: Human-perception-based contrastive language-audio pretraining,” Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp.131-135, 2025. ([project page](https://github.com/sarulab-speech/Human-CLAP)) (<a href="../uploaded_files/APSIPA2025_Takano_fixed.pdf">poster</a>)
 2. Yusuke Kanamori, Yuki Okamoto, **<u>Taisei Takano</u>**, Shinnosuke Takamichi, Yuki Saito, and Hiroshi Saruwatari,  "RELATE: Subjective Evaluation Dataset for Automatic Evaluation of Relevance Between Text and Audio," Proc. INTERSPEECH, pp. 3155-3159, 2025. ([project page](https://github.com/sarulab-speech/RELATE))
 
 ## Domestic Conferences
