@@ -17,7 +17,11 @@ author_profile: true
 
 ## International Conferences
 1. **<u>Taisei Takano</u>**, Yuki Okamoto, Yusuke Kanamori, Yuki Saito, Ryotaro Nagase, and Hiroshi Saruwatari,  “Human-CLAP: Human-perception-based contrastive language-audio pretraining,” Proc. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp.131-135, 2025. [[arxiv](https://www.arxiv.org/abs/2506.23553) \| [project page](https://github.com/sarulab-speech/Human-CLAP) \| <a href="../uploaded_files/APSIPA2025_Takano_fixed.pdf">poster</a>]
-2. Yusuke Kanamori, Yuki Okamoto, **<u>Taisei Takano</u>**, Shinnosuke Takamichi, Yuki Saito, and Hiroshi Saruwatari,  "RELATE: Subjective Evaluation Dataset for Automatic Evaluation of Relevance Between Text and Audio," Proc. INTERSPEECH, pp. 3155-3159, 2025. [[arxiv](https://arxiv.org/abs/2506.23582) \| [project page](https://github.com/sarulab-speech/RELATE)]
+2. Yusuke Kanamori, Yuki Okamoto, **<u>Taisei Takano</u>**, Shinnosuke Takamichi, Yuki Saito, and Hiroshi Saruwatari,  "RELATE: Subjective Evaluation Dataset for Automatic Evaluation of Relevance Between Text and Audio," Proc. INTERSPEECH, pp. 3155-3159, 2025. [[arxiv](https://arxiv.org/abs/2601.02900) \| [project page](https://github.com/sarulab-speech/RELATE)]
+
+## Preprints
+1. **<u>Taisei Takano</u>**, Ryoya Yoshida, "SPO-CLAPScore: Enhancing CLAP-based alignment prediction system with Standardize Preference Optimization, for the first XACLE Challenge," arxiv, 2026. [[arxiv](https://arxiv.org/abs/2506.23582) \| [project page](https://github.com/ttakano398/SPO-CLAPScore)]
+
 
 ## Domestic Conferences
 1. **<u>高野 大成</u>**，川嶋健嗣, "カメラパラメータ不要で動作するステレオ深度推定手法の検討", 日本コンピュータ外科学会大会，25(10)-4, 2025.
