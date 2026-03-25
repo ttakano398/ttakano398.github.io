@@ -12,7 +12,7 @@ site_theme               : "dark"
 title                    : "Taisei Takano / 高野大成"
 title_separator          : "-"
 name                     : &name "Taisei Takano"
-description              : &description "personal description"
+description              : &description "Taisei Takano's portfolio"
 url                      : "https://ttakano398.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ttakano398/ttakano398.github.io"
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ttakano398"
 facebook:
   username               :
   app_id                 :
