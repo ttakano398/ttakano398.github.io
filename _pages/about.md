@@ -23,7 +23,9 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 
 ## Education
 - 2025.04 - Now　東京大学大学院 情報理工学系研究科 システム情報学専攻 修士課程 (M.E. in the University of Tokyo)
+  - 2025.04 - Now　[Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.jp/)
 - 2021.04 - 2025.03　東京大学 工学部 計数工学科 (B.E. in the University of Tokyo)
+  - 2024.06 - 2025.03　[Saruwatari-Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/)
 - 2018.04 - 2021.03　私立海城高校
 
 ## Awards
