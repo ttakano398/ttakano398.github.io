@@ -22,21 +22,22 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 <!-- - Computer Vision -->
 
 ## Education
-- 2025.04 - Now
-  東京大学大学院 情報理工学系研究科 システム情報学専攻 修士課程 (M.E. in the University of Tokyo)
+- 2025.04 - Now<br>
+  東京大学大学院 情報理工学系研究科 システム情報学専攻 修士課程 (M.E. in the University of Tokyo)<br>
   [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.jp/)
-- 2021.04 - 2025.03
-  東京大学 工学部 計数工学科 (B.E. in the University of Tokyo)
+- 2021.04 - 2025.03<br>
+  東京大学 工学部 計数工学科 (B.E. in the University of Tokyo)<br>
   [Saruwatari-Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/)
-- 2018.04 - 2021.03: 私立海城高校
+- 2018.04 - 2021.03<br>
+  私立海城高校
 
 ## Awards
 - 第19回YANSシンポジウム スポンサー賞 (株式会社IVRy賞), 2024.
 
 ## Career
-- 2025.06 - Now
+- 2025.06 - Now<br>
   New Innovations Inc.
-- 2025.08 - 2025.09
+- 2025.08 - 2025.09<br>
   Hitachi Ltd. R&D Group Internship
 
 ## Contact
