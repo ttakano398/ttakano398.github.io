@@ -36,9 +36,9 @@ Master student at<!-- [Kawashima-Miyazaki Lab.](http://www.bmc.ipc.i.u-tokyo.ac.
 
 ## Career
 - 2025.06 - Now<br>
-  New Innovations Inc.
+  Software Engineer @ New Innovations Inc.
 - 2025.08 - 2025.09<br>
-  Hitachi Ltd. R&D Group Research Internship
+  Research Intern @ Hitachi Ltd. R&D Group Research Internship
 
 ## Contact
 **Email (university)**: takano-taisei953 [at] g.ecc.u-tokyo.ac.jp<br>
